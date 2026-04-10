@@ -88,6 +88,7 @@
 - [zhaoxinyi02/ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) ![GitHub Repo stars](https://img.shields.io/github/stars/zhaoxinyi02/ClawPanel?style=social) - Go-based visual management panel with real-time logs.
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) ![GitHub Repo stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social) - Real-time companion monitor for OpenClaw agents.
 - [getclawe/clawe](https://github.com/getclawe/clawe) ![GitHub Repo stars](https://img.shields.io/github/stars/getclawe/clawe?style=social) - Trello-style multi-agent coordination system built around OpenClaw workflows.
+- [SweetSophia/openclaw-pixel-agents](https://github.com/SweetSophia/openclaw-pixel-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/SweetSophia/openclaw-pixel-agents?style=social) - Pixel art office dashboard where AI agents walk around, sit at desks, and visually reflect their activity in real time.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
