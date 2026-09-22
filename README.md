@@ -97,6 +97,11 @@
 - [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
 - [HITsz-TMG/VideoClaw](https://github.com/HITsz-TMG/VideoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/HITsz-TMG/VideoClaw?style=social) - AI video generation coworker — chat an idea and produce a film-style output for OpenClaw-style agents.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) - Local 24/7 screen recording that plugs into OpenClaw, Hermes, and other agents (YC S26).
+- [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social) - Post-task skill evolution system that deduplicates, improves, and shares skills across OpenClaw and other compatible agents.
+- [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=social) - Agent skills for YouTube transcripts, video and channel search, channel browsing, and playlist extraction, installable on OpenClaw from ClawHub.
+- [vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/vaibhavarora14/job-application-agent?style=social) - Job-search skill on ClawHub for discovering, qualifying, completing, and tracking applications.
+- [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social) - Social media marketing skills for LinkedIn and six other platforms, installable on OpenClaw from ClawHub.
+- [avansaber/erpclaw](https://github.com/avansaber/erpclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social) - Self-hosted ERP skill suite for invoicing, inventory, payroll, and double-entry accounting in plain English.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -108,6 +113,7 @@
 - [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) ![GitHub Repo stars](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=social) - Command-center style dashboard focused on visibility and management.
 - [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) ![GitHub Repo stars](https://img.shields.io/github/stars/tugcantopaloglu/openclaw-dashboard?style=social) - Secure real-time monitoring dashboard with auth, cost tracking, and memory browsing.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) ![GitHub Repo stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=social) - Open-source orchestration dashboard for agent fleets and task dispatch.
+- [solomon2773/nora](https://github.com/solomon2773/nora) ![GitHub Repo stars](https://img.shields.io/github/stars/solomon2773/nora?style=social) - Self-hosted control plane for deploying, monitoring, and operating OpenClaw and Hermes agent fleets on Docker or Kubernetes.
 - [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) ![GitHub Repo stars](https://img.shields.io/github/stars/abhi1693/openclaw-mission-control?style=social) - Dashboard for coordinating multi-agent work via OpenClaw Gateway.
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) ![GitHub Repo stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social) - Polished web dashboard for connecting gateways, managing agents, and operating faster.
 - [jontsai/openclaw-command-center](https://github.com/jontsai/openclaw-command-center) ![GitHub Repo stars](https://img.shields.io/github/stars/jontsai/openclaw-command-center?style=social) - AI assistant command and control dashboard.
@@ -129,6 +135,7 @@
 - [cft0808/edict](https://github.com/cft0808/edict) ![GitHub Repo stars](https://img.shields.io/github/stars/cft0808/edict?style=social) - OpenClaw multi-agent orchestration system with specialized agents, real-time dashboard, model config, and audit trails.
 - [gluk-w/claworc](https://github.com/gluk-w/claworc) ![GitHub Repo stars](https://img.shields.io/github/stars/gluk-w/claworc?style=social) - User-friendly orchestrator for OpenClaw fleets and workflows.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ![GitHub Repo stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=social) - CLI for tracking token usage across OpenClaw, Claude Code, Codex, OpenCode, Gemini, Cursor, and more.
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) - Local CLI/TUI for OpenClaw and coding-agent session history diagnostics.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -153,6 +160,8 @@
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![GitHub Repo stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social) - One-click installer for OpenClaw setups.
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) ![GitHub Repo stars](https://img.shields.io/github/stars/justlovemaki/openclaw-docker-cn-im?style=social) - Docker distribution preconfigured for major Chinese IM integrations.
 - [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social) - Record an OpenClaw run and replay it offline, including gateway calls and spawned coding agents.
+- [sandbaseai/cli](https://github.com/sandbaseai/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social) - CLI and local MCP bridge that configures OpenClaw to discover and use 2,000+ models and APIs.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -215,6 +224,7 @@
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=social) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for OpenClaw.
 - [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
 - [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/win4r/openclaw-a2a-gateway?style=social) - OpenClaw plugin implementing the A2A (Agent-to-Agent) protocol for bidirectional agent communication.
+- [dream-num/openclaw-univer-office](https://github.com/dream-num/openclaw-univer-office) ![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/openclaw-univer-office?style=social) - OpenClaw plugin for creating and reviewing collaborative office artifacts in Univer Workspace.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -245,6 +255,9 @@
 - [zevorn/rt-claw](https://github.com/zevorn/rt-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/zevorn/rt-claw?style=social) - Cheap runtime alternative in the wider OpenClaw family.
 - [librefang/librefang](https://github.com/librefang/librefang) ![GitHub Repo stars](https://img.shields.io/github/stars/librefang/librefang?style=social) - Open-source agent operating system written in Rust. Live demo available.
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social) - Cross-platform OpenClaw-style assistant with a Rust core and Tauri desktop app, multi-channel messaging, knowledge-graph memory, skills, and voice.
+- [lucinate-ai/lucinate](https://github.com/lucinate-ai/lucinate) ![GitHub Repo stars](https://img.shields.io/github/stars/lucinate-ai/lucinate?style=social) - Terminal-native TUI chat client in Go for OpenClaw, Hermes, and OpenAI-compatible endpoints.
+- [agent37-platform/gateway](https://github.com/agent37-platform/gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/agent37-platform/gateway?style=social) - Single Responses-style HTTP/SSE API that routes chat turns to Hermes or OpenClaw backends.
+- [iclawapp/iclaw](https://github.com/iclawapp/iclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/iclawapp/iclaw?style=social) - Local-first workspace with isolated folders and containerized execution, using OpenClaw as the default agent runtime.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
